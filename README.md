@@ -1,5 +1,5 @@
 # TH3 - Cửa hàng đồ dùng điện tử
-### Phạm Hải Hoàn - 2251172350
+### Nguyễn Văn A - SV001
 
 ## Mô tả
 Ứng dụng Flutter hiển thị sản phẩm điện tử & thời trang từ **FakeStore API** (https://fakestoreapi.com).
